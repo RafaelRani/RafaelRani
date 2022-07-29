@@ -29,3 +29,5 @@
   <a href="https://www.linkedin.com/in/rafaelrani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.behance.net/rafaelrani" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   <a href="https://github.com/RafaelRani" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></div>
+
+ ![Snake animation](https://github.com/RafaelRani/RafaelRani/blob/output/github-contribution-grid-snake.svg)
